@@ -1,0 +1,40 @@
+<manifest alg="2" build="30" opt="true" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="index.css" crc="534459670" ref="index"/>
+    <file name="iefonts_index.css" crc="4255755036" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4291592202" ref="index"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4006931061" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="3903299128" ref="index"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="img-logo.png" crc="4099757998" ref="index"/>
+    <file name="pasted image 48x47.jpg" crc="163888376" ref="index"/>
+    <file name="pasted image 48x472.jpg" crc="163888376" ref="index"/>
+    <file name="pasted image 48x473.jpg" crc="525880936" ref="index"/>
+    <file name="pasted image 48x474.jpg" crc="4063515368" ref="index"/>
+    <file name="pasted image 48x475.jpg" crc="419397056" ref="index"/>
+    <file name="pasted image 48x476.jpg" crc="3984448757" ref="index"/>
+    <file name="pasted image 48x477.jpg" crc="525880936" ref="index"/>
+    <file name="u187.png" crc="4232157018" ref="index"/>
+    <file name="img-tooltip.png" crc="3831151818" ref="index"/>
+    <file name="u254.png" crc="134290883" ref="index"/>
+    <file name="u339.png" crc="3844931406" ref="index"/>
+    <file name="u538.png" crc="86653756" ref="index"/>
+    <file name="u381-5.png" crc="4065804447" ref="index"/>
+    <file name="u587.png" crc="4034226330" ref="index"/>
+    <file name="img-mso-bw.png" crc="4091704039" ref="index"/>
+    <file name="img-ms-typo.png" crc="4018651486" ref="index"/>
+    <file name="img-manica.jpg" crc="3968475181" ref="index"/>
+  </folder>
+  <file name="index.html" crc="242418961" mt="1410863597657" redirect="true"/>
+</manifest>
