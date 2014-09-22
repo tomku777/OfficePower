@@ -1,8 +1,8 @@
 <manifest alg="2" build="30" opt="true" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="3983832653"/>
-    <file name="index.css" crc="534459670" ref="index"/>
-    <file name="iefonts_index.css" crc="4255755036" ref="index"/>
+    <file name="index.css" crc="3909811162" ref="index"/>
+    <file name="iefonts_index.css" crc="3979952600" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -35,6 +35,8 @@
     <file name="img-mso-bw.png" crc="4091704039" ref="index"/>
     <file name="img-ms-typo.png" crc="4018651486" ref="index"/>
     <file name="img-manica.jpg" crc="3968475181" ref="index"/>
+    <file name="prekladac1.jpg" crc="269523975" ref="index"/>
+    <file name="prekladac2.jpg" crc="5763004" ref="index"/>
   </folder>
-  <file name="index.html" crc="242418961" mt="1410863597657" redirect="true"/>
+  <file name="index.html" crc="472642104" mt="1411386224915" redirect="true"/>
 </manifest>
