@@ -1,15 +1,14 @@
 <manifest alg="2" build="30" opt="true" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="3983832653"/>
-    <file name="index.css" crc="4107682947" ref="index"/>
-    <file name="iefonts_index.css" crc="451523814" ref="index"/>
+    <file name="index.css" crc="71089229" ref="index"/>
+    <file name="iefonts_index.css" crc="160290690" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="4291592202" ref="index"/>
     <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="4006931061" ref="index"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
     <file name="webpro.js" crc="3903299128" ref="index"/>
     <file name="musewpslideshow.js" crc="138381373" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4250894771" ref="index"/>
@@ -25,18 +24,24 @@
     <file name="pasted image 48x475.jpg" crc="419397056" ref="index"/>
     <file name="pasted image 48x476.jpg" crc="3984448757" ref="index"/>
     <file name="pasted image 48x477.jpg" crc="525880936" ref="index"/>
-    <file name="u187.png" crc="4232157018" ref="index"/>
-    <file name="img-tooltip.png" crc="3831151818" ref="index"/>
-    <file name="u254.png" crc="134290883" ref="index"/>
-    <file name="u339.png" crc="3844931406" ref="index"/>
-    <file name="u538.png" crc="86653756" ref="index"/>
     <file name="u381-5.png" crc="4065804447" ref="index"/>
-    <file name="u587.png" crc="4034226330" ref="index"/>
     <file name="img-mso-bw.png" crc="4091704039" ref="index"/>
     <file name="img-ms-typo.png" crc="4018651486" ref="index"/>
     <file name="img-manica.jpg" crc="3968475181" ref="index"/>
     <file name="prekladac1.jpg" crc="269523975" ref="index"/>
     <file name="prekladac2.jpg" crc="5763004" ref="index"/>
+    <file name="office.jpg" crc="4044197529" ref="index"/>
+    <file name="pdf1.jpg" crc="169978120" ref="index"/>
+    <file name="img-prekladac.jpg" crc="377301604" ref="index"/>
+    <file name="img-grafy.jpg" crc="3771341670" ref="index"/>
+    <file name="img-minigrafy.jpg" crc="4264101105" ref="index"/>
+    <file name="pasted image 48x478.jpg" crc="163888376" ref="index"/>
+    <file name="kob-tab-2.jpg" crc="4111353812" ref="index"/>
+    <file name="img-velikost.jpg" crc="4287534956" ref="index"/>
+    <file name="img-formatovani.png" crc="4217599267" ref="index"/>
+    <file name="pdf2.jpg" crc="477230552" ref="index"/>
+    <file name="kontrola-metadat.jpg" crc="257019088" ref="index"/>
+    <file name="kon-tab.jpg" crc="326904849" ref="index"/>
   </folder>
-  <file name="index.html" crc="3883785576" mt="1411554378947" redirect="true"/>
+  <file name="index.html" crc="333070974" mt="1412183143114" redirect="true"/>
 </manifest>
