@@ -1,47 +1,61 @@
-<manifest alg="2" build="30" opt="true" iceEnabled="true">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.officepower.cz" resolutions="1x" timestamp="1460528990867">
   <folder name="css">
-    <file name="site_global.css" crc="3983832653"/>
-    <file name="index.css" crc="71089229" ref="index"/>
-    <file name="iefonts_index.css" crc="160290690" ref="index"/>
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="4228013417" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="4291592202" ref="index"/>
-    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="4006931061" ref="index"/>
-    <file name="webpro.js" crc="3903299128" ref="index"/>
-    <file name="musewpslideshow.js" crc="138381373" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4250894771" ref="index"/>
-    <file name="touchswipe.js" crc="4156838003" ref="index"/>
-    <file name="jquery.watch.js" crc="4068933136" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
+    <file name="museutils.js" crc="3790713428" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+    <file name="webpro.js" crc="329496574" ref="index"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
+    <file name="touchswipe.js" crc="497316881" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="img-logo.png" crc="4099757998" ref="index"/>
-    <file name="pasted image 48x47.jpg" crc="163888376" ref="index"/>
-    <file name="pasted image 48x472.jpg" crc="163888376" ref="index"/>
-    <file name="pasted image 48x473.jpg" crc="525880936" ref="index"/>
-    <file name="pasted image 48x474.jpg" crc="4063515368" ref="index"/>
-    <file name="pasted image 48x475.jpg" crc="419397056" ref="index"/>
-    <file name="pasted image 48x476.jpg" crc="3984448757" ref="index"/>
-    <file name="pasted image 48x477.jpg" crc="525880936" ref="index"/>
-    <file name="u381-5.png" crc="4065804447" ref="index"/>
-    <file name="img-mso-bw.png" crc="4091704039" ref="index"/>
-    <file name="img-ms-typo.png" crc="4018651486" ref="index"/>
-    <file name="img-manica.jpg" crc="3968475181" ref="index"/>
-    <file name="prekladac1.jpg" crc="269523975" ref="index"/>
-    <file name="prekladac2.jpg" crc="5763004" ref="index"/>
-    <file name="office.jpg" crc="4044197529" ref="index"/>
-    <file name="pdf1.jpg" crc="169978120" ref="index"/>
-    <file name="img-prekladac.jpg" crc="377301604" ref="index"/>
-    <file name="img-grafy.jpg" crc="3771341670" ref="index"/>
-    <file name="img-minigrafy.jpg" crc="4264101105" ref="index"/>
-    <file name="pasted image 48x478.jpg" crc="163888376" ref="index"/>
-    <file name="kob-tab-2.jpg" crc="4111353812" ref="index"/>
-    <file name="img-velikost.jpg" crc="4287534956" ref="index"/>
-    <file name="img-formatovani.png" crc="4217599267" ref="index"/>
-    <file name="pdf2.jpg" crc="477230552" ref="index"/>
-    <file name="kontrola-metadat.jpg" crc="257019088" ref="index"/>
-    <file name="kon-tab.jpg" crc="326904849" ref="index"/>
+    <file name="pasted-svg-285899x66.svg" crc="4293133709" ref="index"/>
+    <file name="pasted svg 285899x66_poster_.png" crc="163804849" ref="index"/>
+    <file name="pasted-svg-334.svg" crc="534742643" ref="index"/>
+    <file name="pasted svg 334_poster_.png" crc="3799181539" ref="index"/>
+    <file name="img-op-bg.jpg" crc="3923105593" ref="index"/>
+    <file name="pasted-svg-3348x52.svg" crc="4084086356" ref="index"/>
+    <file name="pasted svg 3348x52_poster_.png" crc="357458594" ref="index"/>
+    <file name="pasted image 74x74.png" crc="4208850045" seo="true" ref="index"/>
+    <file name="pasted image 85x86.png" crc="412562030" seo="true" ref="index"/>
+    <file name="pasted image 100x100.png" crc="409758994" seo="true" ref="index"/>
+    <file name="pasted image 87x87.png" crc="4111410715" seo="true" ref="index"/>
+    <file name="pasted image 87x872.png" crc="4200683672" seo="true" ref="index"/>
+    <file name="pasted image 92x92.png" crc="3955643491" seo="true" ref="index"/>
+    <file name="pasted image 77x77.png" crc="311220815" seo="true" ref="index"/>
+    <file name="mail-mall-u938-fr.jpg" crc="192464229" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="mockup_1480.jpg" crc="340433052" seo="true" ref="index"/>
+    <file name="cez-mail-u947-fr.jpg" crc="453213047" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="pasted image 61x62.png" crc="3929396962" seo="true" ref="index"/>
+    <file name="pasted image 51x51.png" crc="4282610922" seo="true" ref="index"/>
+    <file name="pasted image 61x61.png" crc="4029176486" seo="true" ref="index"/>
+    <file name="pasted image 59x59.png" crc="4101503553" seo="true" ref="index"/>
+    <file name="pasted image 74x75.png" crc="4166733886" seo="true" ref="index"/>
+    <file name="pasted image 61x60.png" crc="432109836" seo="true" ref="index"/>
+    <file name="pasted image 55x55.png" crc="3852607182" seo="true" ref="index"/>
+    <file name="pasted image 41x42-crop-u2857.png" crc="4084510164" ref="index"/>
+    <file name="pasted image 51x52-crop-u2881.png" crc="115850336" ref="index"/>
+    <file name="pasted image 44x45-crop-u2907.png" crc="29764329" ref="index"/>
+    <file name="pasted image 44x44.png" crc="3761467823" seo="true" ref="index"/>
+    <file name="pasted image 50x51-crop-u3012.png" crc="181518815" ref="index"/>
+    <file name="pasted image 45x45.png" crc="4154407100" seo="true" ref="index"/>
+    <file name="pasted image 39x39.png" crc="383750752" seo="true" ref="index"/>
+    <file name="pasted image 169x150-u993-fr.png" crc="3894903702" ref="index"/>
+    <file name="pasted image 169x169-u810-fr.png" crc="3795481896" ref="index"/>
+    <file name="pasted image 179x182-u972-fr.png" crc="3994311346" ref="index"/>
+    <file name="mca-logo-symbol.svg" crc="340148463" ref="index"/>
+    <file name="mca-logo-symbol_poster_u2502.png" crc="3923572662" ref="index"/>
+    <file name="pasted-svg-43154x31.svg" crc="3824061902" ref="index"/>
+    <file name="pasted svg 43154x31_poster_.png" crc="4125290808" ref="index"/>
   </folder>
-  <file name="index.html" crc="333070974" mt="1412183143114" redirect="true"/>
+  <file name="index.html" crc="409392655" seo="true" mt="1460448750178" redirect="true"/>
 </manifest>
